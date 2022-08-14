@@ -11,8 +11,8 @@ I am super eager to learn more and build even more breathtaking websites.
 
 
 - ✨ Check out my portfolio at www.keshenthevan.com
-- 🔭 I’m currently working on becoming the best developer in the universe
+- 🔭 I’m striving to become the best developer in the universe
 - 🌱 I’m currently learning solidity and React
-- 📫 How to reach me: keshenthevan@gmail.com
-- ⚡ Fun fact: I am a human.
+- 📫 How to reach me: keshenthevan13@gmail.com
+- ⚡ Fun fact: I love to watch anime.
 
